@@ -1,9 +1,9 @@
 /*/////////////////////////////////////////////////////////////////////////
                           Workshop - #2 (P2)
-Full Name  : 
+Full Name  : Shawn Shokouh
 Student ID#: 
-Email      : 
-Section    : 
+Email      : sshokouh@myseneca.ca
+Section    : NJJ
 
 Authenticity Declaration:
 
